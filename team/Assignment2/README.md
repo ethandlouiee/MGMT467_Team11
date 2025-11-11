@@ -90,7 +90,7 @@ The `sex_pclass` interaction captured the “women and children first” bias, d
 |-----------|------------|
 | Female | 0.841 |
 | Male | 0.827 |
-| **Gap = 1.4 pp ** | Within limit |
+| Gap = 1.4 pp | Within limit |
 
 **Continuous Monitoring Plan**
 
