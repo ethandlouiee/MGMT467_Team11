@@ -1,7 +1,6 @@
 # Unit 2 — Titanic Survival Classification (BigQuery ML)
 
 **Author:** Qianyue Wang，Ethan Louie, Zijing Zhang and Nathaniel Hiatt
-**Course:** MGMT 467 — AI-Assisted Big Data Analytics in the Cloud  
 **Environment:** Google Colab + BigQuery ML  
 **Dataset:** https://www.kaggle.com/datasets/yasserh/titanic-dataset
 
