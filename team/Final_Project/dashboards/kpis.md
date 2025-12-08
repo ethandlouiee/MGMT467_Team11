@@ -1,6 +1,6 @@
 # Executive Dashboard: Air Quality Monitoring System
 
-**Dashboard Link:** [ *Insert Looker Studio Link Here* ]
+**Dashboard Link:** [ *[Insert Looker Studio Link Here](https://lookerstudio.google.com/u/0/reporting/2fc71b11-3a55-45b6-8a01-d77ad5878b63/page/p_ol08d80uyd/edit)* ]
 
 ## Key Performance Indicators (KPIs)
 
