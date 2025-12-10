@@ -81,6 +81,7 @@ For detailed step-by-step instructions, commands, and failure handling, please r
 *   **Architecture Blueprint:** [View PDF](docs/blueprint.pdf)
 *   **Governance & Ethics:** [View PDF](docs/governance.pdf)
 *   **Ops Runbook:** [View Markdown](docs/ops_runbook.md)
+*   **Medium Article** [Medium Link] (https://medium.com/@njhiatt04/bridging-a-20-year-data-gap-building-a-hybrid-air-quality-pipeline-on-google-cloud-c2ab0fedd4f5)
 
 ---
 
